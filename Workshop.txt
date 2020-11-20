@@ -1,0 +1,5 @@
+version=1
+title=Show me XP
+description=Show XP and skill gains as they are shown when watching Life and Living TV
+tags=B41
+visibility=public
